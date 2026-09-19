@@ -12,6 +12,10 @@ Every path that reached a service which no longer exists has been deprecated:
 - The marketplace contact form no longer posts anywhere; its fields are
   disabled behind a notice.
 
+The presentation was also pared back for the archive: the animated background
+canvas, particle fields, rotating headline text and hover springs are gone in
+favour of a static, restrained layout.
+
 This repository holds the built static output only. Source lives on the
 `deprecated-showcase` branch of
 [streamdeploy-landing](https://github.com/StreamDeploy/streamdeploy-landing/tree/deprecated-showcase).
